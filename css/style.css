@@ -21,3 +21,8 @@ body{
 	font-family: monospace;
 font-size: 40px
 }
+.pict{width: 500px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto
+}
